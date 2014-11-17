@@ -12,7 +12,7 @@
 
 `Reclassified`: Proposals reclassified to a different project.  
 
-##Proposed
+###Proposals
 
 - Line item of proposal. [#56](path/to/issue).
 - Line item of proposal. [#56](path/to/issue) 
@@ -20,22 +20,21 @@
 - Line item of proposal. [#56](path/to/issue)
 - Line item of proposal. [#56](path/to/issue)
 
-##Accepted
+###Accepted
 
 - Line item of proposal. [#56](path/to/issue)
 - Line item of proposal. [#56](path/to/issue)
 
-
-##Started
+###Started
 
 - Line item of proposal redrafted if required. [#56](path/to/issue)
 - Line item of proposal redrafted if required. [#56](path/to/issue)
 
-##Rejected
+###Rejected
 
 - Line item of rejected proposal. [#56](path/to/issue)
     + reason.
 
-##Reclassified
+###Reclassified
 
 - Line item moved to [Project Name](path/to/roadmap/line/item)
