@@ -10,18 +10,15 @@ Reader-friendly Documentation can be found at [External Link](link/to/documentat
 
 Raw files can be found via this projects docs/version branch.
 
-[v2.0.0](path/to/branch/version)
-
-[v1.0.0](path/to/branch/version)
+- [v2.0.0](path/to/branch/version)
+- [v1.0.0](path/to/branch/version)
 
 ##Changelog
 Important versions listed below. For full history please refers to the [Changelog](CHANGELOG.md)
 
-[v2.0.0](CHANGELOG.md/#) - 2014-11-02 | Upgrade
-
-[v1.0.7](CHANGELOG.md/#) - 2014-10-19 | Security
-
-[v1.0.0](CHANGELOG.md/#) - 2014-10-19 | Release
+- [v2.0.0](CHANGELOG.md/#) - 2014-11-02 | Upgrade
+- [v1.0.7](CHANGELOG.md/#) - 2014-10-19 | Security
+- [v1.0.0](CHANGELOG.md/#) - 2014-10-19 | Release
 
 ##Support
 
@@ -36,13 +33,10 @@ Bug reports, feature requests, and pull requests can be submitted by following o
 
 ##Protocols
 
-[Semantic Project Strategy](PROTOCOL.md/#)
-
-[Semantic Versioning](PROTOCOL.md/#)
-
-[Contribution Guide](PROTOCOL.md/#)
-
-[Coding Guidelines](PROTOCOL.md/#)
+- [Semantic Project Strategy](PROTOCOL.md/#)
+- [Semantic Versioning](PROTOCOL.md/#)
+- [Contribution Guide](PROTOCOL.md/#)
+- [Coding Guidelines](PROTOCOL.md/#)
 
 ##License
 
