@@ -4,12 +4,15 @@
 
 A project contains a README.md file containing the following synopsis.
 
-1. Project Name
-2. Description
-3. Changelog
-4. Protocols
-5. Documentation
-6. Support Channels
+- Name
+- Badges
+- Details
+    + description
+    + requirements
+    + license
+- Changes
+- Protocols
+- Support Channels
 
 See our example [Example Readme](demo/README.md).
 
