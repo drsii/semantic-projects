@@ -16,9 +16,9 @@ Raw files can be found via this projects docs/version branch.
 ##Changelog
 Important versions listed below. Refer to the [Changelog](CHANGELOG.md) for a full history of the project.
 
-- [v2.0.0](CHANGELOG.md/#) - 2014-11-02 | Upgrade
-- [v1.0.7](CHANGELOG.md/#) - 2014-10-19 | Security
-- [v1.0.0](CHANGELOG.md/#) - 2014-10-19 | Release
+- [v2.0.0](CHANGELOG.md/#v200---2014-11-02--upgrade) - 2014-11-02 | Upgrade
+- [v1.0.7](CHANGELOG.md/#v107---2014-10-19--security) - 2014-10-19 | Security
+- [v1.0.0](CHANGELOG.md/#v100---2014-04-01) - 2014-04-01 | Release
 
 ##Support
 

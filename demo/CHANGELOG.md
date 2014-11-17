@@ -53,3 +53,11 @@ This project follows [Semantic Versioning](PROTOCOL.md). Future releases covered
 - line item on fixed functionality.
 - line item on fixed functionality.
 - line item on fixed functionality.
+
+###v1.0.0 - 2014-04-01
+
+`ADDED` 
+
+- line item on added functionality.
+- line item on added functionality.
+- line item on added functionality.
