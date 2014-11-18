@@ -2,10 +2,13 @@
 
 From time to time security patches or major versions will require additional upgrades to be performed.
 
-###v2.0.0 - 2014-11-02
+###v1.0.7 - 2014-10-19
 
-This version significantly changes [details]. Please follow this step by step guide to upgrade your project.
+A security vulnerability was patched to prevent [details].
+
+Please conduct the following audit.
 
 1. instructions.
 2. instructions.
 3. instructions.
+

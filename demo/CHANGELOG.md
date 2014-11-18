@@ -15,7 +15,7 @@ This project follows [Semantic Versioning](PROTOCOL.md). Proposals labeled `ACCE
 
 ---
 
-###v2.0.0 - 2014-11-02 | [Upgrade](path/to/upgrade/entry)
+###v2.0.0 - 2014-11-02 | [Upgrade](docs/v2.0/upgrade/index.md)
 
 `ADDED`
 
@@ -44,7 +44,7 @@ This project follows [Semantic Versioning](PROTOCOL.md). Proposals labeled `ACCE
 
 - Line item 1 on removed functionality.
 
-###v1.0.7 - 2014-10-19 | Security
+###v1.0.7 - 2014-10-19 | [Security](docs/v1.0/upgrade/index.md)
 
 *This release fixes security concerns related to [description]. *
 
