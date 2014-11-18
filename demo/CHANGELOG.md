@@ -1,8 +1,6 @@
 # Project Change Log
 
-This project follows [Semantic Versioning](PROTOCOL.md). Proposals labeled `ACCEPTED` are planned features. Proposals labeled `STARTED` are on deck.
-
-> Proposals will never have a projected date. 
+This project follows [Semantic Versioning](PROTOCOL.md). Proposals labeled `ACCEPTED` are planned features. Proposals labeled `STARTED` are on deck for release. Proposals DO NOT project dates for completion.
 
 ## Proposals
 
