@@ -1,6 +1,19 @@
 # Project Change Log
 
-This project follows [Semantic Versioning](PROTOCOL.md). Future releases covered in the [Project Roadmap](ROADMAP.md)
+This project follows [Semantic Versioning](PROTOCOL.md). Proposals labeled `ACCEPTED` are planned features. Proposals labeled `STARTED` are on deck.
+
+> Proposals will never have a projected date. 
+
+## Proposals
+
+`STARTED`
+
+- Line item of proposal. [#55](path/to/issue)
+
+`ACCEPTED`
+
+- Line item of proposal. [#55](path/to/issue)
+- Line item of proposal. [#58](path/to/issue)
 
 ---
 
